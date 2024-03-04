@@ -6,4 +6,4 @@ I analysed this sales dataset from a sales company with the aim to understand th
 
 ### Data Source 
 
-The dataset I used for this analysis was ""
+The datasets used for this project are in this file  "Sales_Data.tar.gz", this were the files of monthly sales, but i combined all those files into a single file which is "all_data.csv"
