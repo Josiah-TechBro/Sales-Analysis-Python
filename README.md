@@ -13,8 +13,6 @@
 
 I analysed this sales dataset from a sales company with the aim to understand the trend of company's performance. Also, to offer solutions on what improvements need to be made for the growth of the business.
 
-![Python](https://github.com/Josiah-TechBro/Sales-Analysis-Python/assets/143694858/d258bbc6-e44d-424a-a6ed-8b425bef460f)
-
 
 ### Data Source 
 
